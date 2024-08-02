@@ -15,7 +15,7 @@ This project aims to develop a smart, scalable air conditioning solution for lar
 - **Security:** Ensures secure data transmission and storage.
 
 ## System Architecture
-![image](https://github.com/user-attachments/assets/e62a0534-e494-400b-abe2-b27bf2da16a5)
+![image](https://github.com/user-attachments/assets/9e4ad4ea-3103-42ed-9cef-61e80e97a198)
 
 
 ## Installation
